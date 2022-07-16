@@ -13,7 +13,7 @@ int main() {
     while (true) {
 
         if (ResumeThread(dummyThread) >= 1) {
-            printf("Catched Debugger");
+            printf("Caught Debugger");
             //crash process
             for (long long int i = 0; ++i; (&i)[i] = i);
             *((char*)NULL) = 0;
