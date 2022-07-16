@@ -1,4 +1,4 @@
-Anti-Debug POC
+AntiDebug POC
 
 Catching debuggers using ResumeThread
 
